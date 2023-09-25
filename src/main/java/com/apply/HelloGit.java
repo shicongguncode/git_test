@@ -9,6 +9,7 @@ public class HelloGit {
         System.out.println("dev分支");
         System.out.println("本地master ====》远程dev");
         System.out.println("本地dev ===》远程master55555");
+        System.out.println("本地dev ===》远程master666666");
 
     }
 }
