@@ -7,6 +7,7 @@ public class HelloGit {
         System.out.println("第三次提交");
         System.out.println("第四次提交");
         System.out.println("dev分支");
+        System.out.println("本地dev ===》远程master");
 
     }
 }
